@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: PORTFOLIO
-description: Machine Learning Projects.
-github_username: Swati5140
+title: "PORTFOLIO"
+description: "Machine Learning Projects."
+github_username: "Swati5140"
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "my_data_science_portfolio"
 
@@ -38,11 +38,11 @@ baseurl: "/my_data_science_portfolio" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
-  skin: solarized
+  skin: "solarized"
   social_links:
-    linkedin: swatisachan
-    github: Swati5140
-    kaggle: Swati5140
+    linkedin: "swatisachan"
+    github: "Swati5140"
+    kaggle: "Swati5140"
 
 # Set this to true to get LaTeX math equation support
 use_math: 
