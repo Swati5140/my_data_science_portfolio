@@ -4,8 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+[![](https://swati5140.github.io/my_data_science_portfolio/images/port_banner2.png)]
+(https://swati5140.github.io/my_data_science_portfolio)
+
+**[Portfolio](https://Swati5140.github.io/my_data_science_portfolio)** [^1].
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[^1]: Website showcasing Ml projects
